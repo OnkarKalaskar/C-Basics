@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatePractice", "DelegatePractice.csproj", "{D05924C6-57F2-49D2-BFBD-B43BEB012432}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A90E2EE2-D33D-4FAF-ACAD-D8B91C010ABC} = {A90E2EE2-D33D-4FAF-ACAD-D8B91C010ABC}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C#BasicsPractice", "..\C#BasicsPractice\C#BasicsPractice.csproj", "{A90E2EE2-D33D-4FAF-ACAD-D8B91C010ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D05924C6-57F2-49D2-BFBD-B43BEB012432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05924C6-57F2-49D2-BFBD-B43BEB012432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05924C6-57F2-49D2-BFBD-B43BEB012432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05924C6-57F2-49D2-BFBD-B43BEB012432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90E2EE2-D33D-4FAF-ACAD-D8B91C010ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90E2EE2-D33D-4FAF-ACAD-D8B91C010ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90E2EE2-D33D-4FAF-ACAD-D8B91C010ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90E2EE2-D33D-4FAF-ACAD-D8B91C010ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9BCF97A-580C-45FA-B233-BAF702D77746}
+	EndGlobalSection
+EndGlobal

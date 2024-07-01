@@ -1,0 +1,14 @@
+E:\DotNetProjects\C#BasicsPractice\bin\Debug\net8.0\C#BasicsPractice.exe
+E:\DotNetProjects\C#BasicsPractice\bin\Debug\net8.0\C#BasicsPractice.deps.json
+E:\DotNetProjects\C#BasicsPractice\bin\Debug\net8.0\C#BasicsPractice.runtimeconfig.json
+E:\DotNetProjects\C#BasicsPractice\bin\Debug\net8.0\C#BasicsPractice.dll
+E:\DotNetProjects\C#BasicsPractice\bin\Debug\net8.0\C#BasicsPractice.pdb
+E:\DotNetProjects\C#BasicsPractice\obj\Debug\net8.0\C#BasicsPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetProjects\C#BasicsPractice\obj\Debug\net8.0\C#BasicsPractice.AssemblyInfoInputs.cache
+E:\DotNetProjects\C#BasicsPractice\obj\Debug\net8.0\C#BasicsPractice.AssemblyInfo.cs
+E:\DotNetProjects\C#BasicsPractice\obj\Debug\net8.0\C#BasicsPractice.csproj.CoreCompileInputs.cache
+E:\DotNetProjects\C#BasicsPractice\obj\Debug\net8.0\C#BasicsPractice.dll
+E:\DotNetProjects\C#BasicsPractice\obj\Debug\net8.0\refint\C#BasicsPractice.dll
+E:\DotNetProjects\C#BasicsPractice\obj\Debug\net8.0\C#BasicsPractice.pdb
+E:\DotNetProjects\C#BasicsPractice\obj\Debug\net8.0\C#BasicsPractice.genruntimeconfig.cache
+E:\DotNetProjects\C#BasicsPractice\obj\Debug\net8.0\ref\C#BasicsPractice.dll
