@@ -12,9 +12,6 @@ namespace C_BasicsPractice
 
             students.Add(new Student(1, "onkar", "abcSchool", "A"));
             students.Add(new Student(2, "person2", "abcSchool", "B"));
-            students.Add(new Student(3, "person3", "efgSchool", "A"));
-            students.Add(new Student(4, "person4", "efgSchool", "B"));
-            students.Add(new Student(5, "person5", "hijSchool", "A"));
             students.Add(new Student(6, "person6", "hijSchool", "B"));
             students.Add(new Student(7, "person7", "hijSchool", "C"));
             students.Add(new Student(8, "person8", "klmSchool", "A"));
